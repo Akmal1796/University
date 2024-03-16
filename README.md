@@ -1,5 +1,5 @@
-This my first project ever with complete front-end.
-I developed the university of oxford clone website using HTML, CSS, and  JavaScript.
+This is my first project ever with a complete front-end.
+I developed the University of oxford clone website using HTML, CSS, and  JavaScript.
 
 Screenshot 01
 
